@@ -1,0 +1,10 @@
+BEACON REGIONAL HOSPITAL
+BILLING STATEMENT
+Patient: ALVAREZ, ROSA M.          Account: 7741203-01
+Date of Service: 02/14/2026
+
+Emergency department services, level 4            $ 2,410.00
+Radiography, cervical spine                       $   385.00
+Radiography, lumbar spine                         $   385.00
+
+TOTAL CHARGES                                     $ 3,180.00

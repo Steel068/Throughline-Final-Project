@@ -1,0 +1,22 @@
+# Line endings are fixed to LF everywhere, on every platform.
+#
+# This is not a style preference. FR-01 records a content hash for every
+# registered exhibit, and the duplicate-exhibit check in A6 compares those
+# hashes. If the corpus checked out with CRLF on Windows and LF elsewhere,
+# every hash would differ between machines and the determinism evidence for
+# V8 would depend on the checkout rather than on the code.
+
+* text=auto eol=lf
+
+# Corpus and keys: content is compared byte for byte.
+*.txt  text eol=lf
+*.tsv  text eol=lf
+*.csv  text eol=lf
+*.md   text eol=lf
+*.py   text eol=lf
+*.json text eol=lf
+*.yml  text eol=lf
+
+# Deliberately unreadable fixture used to exercise the quarantine path.
+# Must never be touched by line-ending conversion.
+*.bin  binary

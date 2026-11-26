@@ -1,0 +1,13 @@
+NORTHSIDE URGENT CARE
+PATIENT RECORD
+Patient: REYES, TOMAS
+Date of Service: 11/08/2025
+
+PRESENTATION: Left shoulder pain following motor vehicle collision earlier today.
+
+EXAMINATION: Tenderness over the left deltoid. Range of motion limited by pain.
+No deformity. Neurovascularly intact.
+
+ASSESSMENT: Contusion, left shoulder.
+
+PLAN: Conservative care. Physical therapy referral provided.

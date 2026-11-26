@@ -1,0 +1,37 @@
+Copyright (c) 2026 Mark Cunningham. All rights reserved.
+
+This repository contains coursework submitted for academic credit in
+CEN 4010, Principles of Software Engineering, at Florida Atlantic University.
+
+No license is granted. The source code, documentation, synthetic corpus, and
+all other material in this repository are made publicly readable so that
+instructors, reviewers, and prospective employers may inspect the work. That
+visibility does not grant permission to copy, modify, redistribute, or use any
+part of it, in whole or in part, for any purpose.
+
+Specifically, and without limiting the above, you may not:
+
+  - reproduce or redistribute this material, modified or unmodified;
+  - incorporate any part of it into other work, including academic submissions;
+  - use it to train or evaluate machine-learning systems; or
+  - use it for any commercial purpose.
+
+Reading the repository, linking to it, and quoting short excerpts with
+attribution for the purpose of review, commentary, or discussion are not
+restricted by this notice.
+
+If you want to use any part of this work, ask first:
+markcunningh2024@fau.edu
+
+ACADEMIC INTEGRITY
+
+If you are a student in this or a comparable course, submitting any part of
+this repository as your own work is plagiarism. It is also trivially
+detectable, since this repository is public, timestamped, and indexed.
+
+NO WARRANTY
+
+This material is provided as is, without warranty of any kind, express or
+implied. It is a course prototype operating on synthetic data. It is not fit
+for use in legal practice, and nothing in it constitutes legal advice or may
+be relied upon in connection with any actual matter.

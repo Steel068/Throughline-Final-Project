@@ -1,0 +1,13 @@
+LAKESIDE OCCUPATIONAL THERAPY
+TREATMENT RECORDS
+Patient: Priya Raman
+Referral date: 04/13/2026
+
+Visit 1  04/16/2026  Initial evaluation. Grip strength 18 kg right, 26 kg left.
+Visit 2  04/23/2026  Therapeutic activity.
+Visit 3  04/30/2026  Grip strength 21 kg right.
+Visit 4  05/07/2026  Therapeutic activity. Reports improved tolerance for keyboard work.
+Visit 5  05/14/2026  Grip strength 24 kg right.
+Visit 6  05/21/2026  Discharge. Home program provided.
+
+Total sessions attended: 6

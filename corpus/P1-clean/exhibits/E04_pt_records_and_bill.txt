@@ -1,0 +1,15 @@
+CARROW REHABILITATION
+TREATMENT RECORDS AND BILLING STATEMENT
+Patient: Tomas Reyes
+
+Visit 1  11/14/2025  Initial evaluation. Left shoulder flexion limited to 140 degrees.
+Visit 2  11/21/2025  Therapeutic exercise.
+Visit 3  11/28/2025  Flexion 165 degrees.
+Visit 4  12/05/2025  Discharge. Full range of motion restored. No further visits scheduled.
+
+Total sessions attended: 4
+
+BILLING
+Physical therapy, 4 sessions at $290.00              $ 1,160.00
+
+TOTAL CHARGES                                        $ 1,160.00

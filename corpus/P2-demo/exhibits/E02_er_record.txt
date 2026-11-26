@@ -1,0 +1,20 @@
+BEACON REGIONAL HOSPITAL
+EMERGENCY DEPARTMENT RECORD
+Patient: ALVAREZ, ROSA M.          MRN: 7741203
+Date of Service: 02/14/2026        Arrival: 1831
+
+CHIEF COMPLAINT: Neck and lower back pain following motor vehicle collision.
+
+HISTORY: Restrained driver, rear-ended while stopped. Ambulatory at scene.
+Reports immediate neck pain and lower back pain. No loss of consciousness.
+
+EXAMINATION: Tenderness to palpation of the posterior cervical musculature.
+Tenderness at the lumbar paraspinals. Neurovascularly intact. Gait steady.
+
+IMAGING: Radiographs of the cervical and lumbar spine obtained this evening.
+No acute fracture or dislocation identified.
+
+ASSESSMENT: Cervical strain. Lumbar strain.
+
+PLAN: Discharged this evening in stable condition. Follow up with orthopedics.
+Patient discharged 2156 hours on 02/14/2026.

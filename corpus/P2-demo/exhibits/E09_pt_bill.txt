@@ -1,0 +1,9 @@
+HARBOR PHYSICAL THERAPY
+BILLING STATEMENT
+Patient: Rosa Alvarez
+Dates of Service: 02/24/2026 - 04/30/2026
+Issued: 05/02/2026
+
+Physical therapy, 11 sessions                        $ 4,280.00
+
+TOTAL CHARGES                                       $ 4,280.00

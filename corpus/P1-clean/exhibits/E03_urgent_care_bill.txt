@@ -1,0 +1,8 @@
+NORTHSIDE URGENT CARE
+BILLING STATEMENT
+Patient: REYES, TOMAS
+Date of Service: 11/08/2025
+
+Urgent care evaluation and management               $   640.00
+
+TOTAL CHARGES                                       $   640.00

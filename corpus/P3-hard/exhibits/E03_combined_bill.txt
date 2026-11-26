@@ -1,0 +1,9 @@
+HALVORSEN FAMILY MEDICINE
+BILLING STATEMENT
+Patient: RAMAN, PRIYA
+Date of Service: 04/06/2026
+
+Office visit, established patient, level 3           $   310.00
+Radiography, wrist, three views                      $   215.00
+
+TOTAL CHARGES                                        $   525.00

@@ -1,0 +1,18 @@
+HARBOR PHYSICAL THERAPY
+TREATMENT RECORDS
+Patient: Rosa Alvarez
+Referring Physician: E. Whitaker, M.D.
+
+Visit  1  02/23/2026  Initial evaluation. Cervical rotation limited to 45 degrees right.
+Visit  2  02/27/2026  Manual therapy, cervical. Home program reviewed.
+Visit  3  03/03/2026  Manual therapy. Reports improved tolerance for desk work.
+Visit  4  03/10/2026  Therapeutic exercise added.
+Visit  5  03/17/2026  Cervical rotation 55 degrees right.
+Visit  6  03/24/2026  Continued therapeutic exercise.
+Visit  7  03/31/2026  Reports headache frequency reduced.
+Visit  8  04/07/2026  Manual therapy and exercise.
+Visit  9  04/14/2026  Cervical rotation 60 degrees right.
+Visit 10  04/21/2026  Continued program.
+Visit 11  04/30/2026  Final treatment session. Discharge planning discussed.
+
+Total sessions attended: 11
